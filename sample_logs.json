@@ -1,0 +1,8 @@
+[
+  {"timestamp": "2026-01-01T12:00:00Z", "source_ip": "192.0.2.10", "outcome": "failure"},
+  {"timestamp": "2026-01-01T12:00:30Z", "source_ip": "192.0.2.10", "outcome": "failure"},
+  {"timestamp": "2026-01-01T12:01:00Z", "source_ip": "198.51.100.20", "outcome": "success"},
+  {"timestamp": "2026-01-01T12:01:30Z", "source_ip": "192.0.2.10", "outcome": "failure"},
+  {"timestamp": "2026-01-01T12:02:00Z", "source_ip": "192.0.2.10", "outcome": "failure"},
+  {"timestamp": "2026-01-01T12:02:30Z", "source_ip": "192.0.2.10", "outcome": "failure"}
+]
